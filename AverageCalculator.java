@@ -1,5 +1,6 @@
-public class avg {
-    public static void main(String[] a)
+public class AverageCalculator {
+  
+    public static void main(String[] args)
     {
         float score1= 96.55f;
         float score2= 85.85f;
